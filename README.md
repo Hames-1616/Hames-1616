@@ -52,6 +52,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Hames-1616/Hames-1616/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Hames-1616/Hames-1616/blob/output/snake.svg" alt="Snake animation" />
 
 ###

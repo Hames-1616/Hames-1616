@@ -2,8 +2,8 @@
 
 ###
 
-<div align="left">
-  <a href="mailto:shahhaamid@gmail.com" target="_blank">
+<div align="center">
+  <a href="shahhaamid@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/shah-haamid-640216257/" target="_blank">
@@ -52,6 +52,6 @@
 
 <br clear="both">
 
-<img src="![Snake animation](https://github.com/Hames-1616/Hames-1616/blob/output/snake.svg)" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Hames-1616/Hames-1616/output/snake.svg" alt="Snake animation" />
 
 ###

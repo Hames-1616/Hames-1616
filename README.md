@@ -50,8 +50,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hames-1616&locale=en&mode=weekly&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
-###
+
+
